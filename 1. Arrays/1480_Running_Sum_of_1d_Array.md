@@ -42,3 +42,12 @@ public:
         return nums;
     }
 };
+
+
+Runtime : 
+
+0 ms, Beats - 100.00%
+
+Memory : 
+
+12.52 MB, Beats - 52.90%
