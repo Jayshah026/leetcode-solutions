@@ -9,7 +9,7 @@ In this section, I solve array-based problems from LeetCode to strengthen my und
 ```C++
 
 1480. Running Sum of 1d Array
-
+169. Majority Element
 
 ```
 ---
