@@ -20,5 +20,4 @@ In this section, I solve array-based problems from LeetCode to strengthen my und
 
 * prefix sum
 
-
 ```
