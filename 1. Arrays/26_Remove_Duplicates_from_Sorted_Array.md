@@ -65,6 +65,13 @@ public:
 };
 
 
+Runtime
+0 ms, Beats - 100.00%
+
+Memory
+22.68 MB, Beats - 52.71%
+
+
 
 Explanation : 
 
@@ -85,12 +92,3 @@ nums[i] = nums[j] By this we can easily  store the value of nums[j] into the num
 - Here i is starting from the 1st index which means whatever value at the 0th index we will accept it and start modifying the value from the 1st index. 
 
 - When there is a different value in the nums[j] we will change it to the nums[i] from the 1st index and i will increases too because of the different value. and then we will start modifiying the value from the 2nd index like wise.. 
-
-
-
-
-Runtime
-0 ms, Beats - 100.00%
-
-Memory
-22.68 MB, Beats - 52.71%

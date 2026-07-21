@@ -73,6 +73,14 @@ public:
 };
 
 
+Runtime
+0 ms, Beats- 100.00%
+
+Memory
+12.39 MB, Beats - 41.92%
+
+
+
 Explanation : 
 
 - Here first we take i = m - 1 means the last valid element of the nums1
@@ -84,11 +92,3 @@ Explanation :
 - Here first we will compare the i and j accordingly to nums1 and nums2. Now after that whichever is bigger will be inserted into the nums1[k] as per the condition we have given, we have to store everything into the nums1. 
 
 - At last i have given a condition where if the all elements are not copied into the nums2 into the nums1 then it will be copied at last. 
-
-
-
-Runtime
-0 ms, Beats- 100.00%
-
-Memory
-12.39 MB, Beats - 41.92%

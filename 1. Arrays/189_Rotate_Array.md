@@ -54,6 +54,13 @@ public:
 };
 
 
+Runtime
+0 ms, Beats - 100.00%
+
+Memory
+29.60 MB, Beats - 68.58%
+
+
 
 Explanation : 
 
@@ -73,11 +80,3 @@ from the 0th index to 0 + k'th index. if k = 3 then this will reverse form the 0
 - Here for that we will start wil the k + 1 index to end of the index. 
 
 - By this we can easily rotate the array. 
-
-
-
-Runtime
-0 ms, Beats - 100.00%
-
-Memory
-29.60 MB, Beats - 68.58%
